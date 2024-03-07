@@ -1,4 +1,4 @@
-# smartphone-use-survey
+# Smartphone Use Survey
 
 The project is to collect data from college student to research the status of smartphone use and its impact on their education.
 
